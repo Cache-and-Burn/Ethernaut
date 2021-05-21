@@ -1,2 +1,2 @@
 # Ethernaut
-Ethereum wargame
+Attack contracts for the OpenZepplin Ethereum wargame.
